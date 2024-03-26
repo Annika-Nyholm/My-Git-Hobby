@@ -1,0 +1,173 @@
+[
+    {
+        "filename": "HighWayOne.jpg",
+        "path": "src/pictures/california/HighWayOne.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "LACentralPerk.jpg",
+        "path": "src/pictures/california/LACentralPerk.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "LAHollywoodHill.jpg",
+        "path": "src/pictures/california/LAHollywoodHill.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "LAHollywoodSign.jpg",
+        "path": "src/pictures/california/LAHollywoodSign.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "LasVegasFountain.jpg",
+        "path": "src/pictures/california/LasVegasFountain.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "LasVegasSign.jpg",
+        "path": "src/pictures/california/LasVegasSign.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "LosAngeles.jpg",
+        "path": "src/pictures/california/LosAngeles.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "PalmSprings.jpg",
+        "path": "src/pictures/california/PalmSprings.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "SanFran7Ladies.jpg",
+        "path": "src/pictures/california/SanFran7Ladies.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "SanFranGoldenGate.jpg",
+        "path": "src/pictures/california/SanFranGoldenGate.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "Sequoia.jpg",
+        "path": "src/pictures/california/Sequoia.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "california",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "Alligator.jpg",
+        "path": "src/pictures/florida/Alligator.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "florida",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "DisneyWorld.jpg",
+        "path": "src/pictures/florida/DisneyWorld.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "florida",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "EvergladesGator.jpg",
+        "path": "src/pictures/florida/EvergladesGator.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "florida",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "FloridaBeach.jpg",
+        "path": "src/pictures/florida/FloridaBeach.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "florida",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "TjornBath.jpg",
+        "path": "src/pictures/sweden/TjornBath.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "sweden",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "TjornForrest.jpg",
+        "path": "src/pictures/sweden/TjornForrest.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "sweden",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "TjornShrimps.jpg",
+        "path": "src/pictures/sweden/TjornShrimps.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "sweden",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    },
+    {
+        "filename": "TjornSunset.jpg",
+        "path": "src/pictures/sweden/TjornSunset.jpg",
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "category": "sweden",
+        "width": 200,
+        "height": 200,
+        "lazyload": true
+    }
+]

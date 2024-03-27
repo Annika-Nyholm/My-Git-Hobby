@@ -1,4 +1,7 @@
+import './style.scss';
 import picturesData from './pictures.json';
+
+
 
 class Pictures {
     constructor(

@@ -2,6 +2,7 @@
 
 This is a little project for school, Medieinstitutet. We had to play around, try and fail, and fix with git. I chose to do a little application to show some pictures from travels. 
 
+
 ## Tech used
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -10,8 +11,12 @@ This is a little project for school, Medieinstitutet. We had to play around, try
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
+## Screenshots
+![alt text](src/pictures/ScreenshotTravel.JPG)
+
+![alt text](src/pictures/ScreeshotTravelGitgraph.JPG)
+
+
 ## Authors
  
 - [@Annika-Nyholm](https://www.github.com/Annika-Nyholm)
-
-

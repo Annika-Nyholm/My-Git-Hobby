@@ -1,4 +1,10 @@
+@import './mixins';
+* {
+    box-sizing: border-box;
+}
+
 body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #9d8189;
 
     header {
@@ -8,4 +14,75 @@ body {
     }
 
 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #9d8189;
+        //border: 1px solid black;
+        height: 120px;
+        width: auto;
+        margin-bottom: 16px;
+
+        h1 {
+            margin: 0;
+            padding: 8px;
+            font-size: 54px;
+            color: #ffe5d9;
+            
+        }
+
+        ul {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            gap: 16px;
+            padding: 12px;
+
+            li {
+                text-decoration: underline;
+                cursor: pointer;
+                color: #f4acb7;
+            }
+
+            li:hover {
+                color: #ffcad4;
+            }
+
+        }
+    }
+    main {
+        width: 100%;
+        
+
+        section {
+            @include box-shadow;
+            border-radius: 12px;
+            max-width: 1000px;
+            display: flex;
+            flex-direction: column;
+            margin: auto;
+            gap: 16px;
+            
+            h2 {
+                padding-left: 16px;
+                text-transform: capitalize;
+                color: #ffe5d9;
+            }
+            figure {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                img {
+                    width: 50%;
+                    height: auto;
+                }
+                figcaption {
+                    max-width: 50%;
+                }
+            }
+
+        }
+    }
 }

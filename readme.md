@@ -12,9 +12,9 @@ This is a little project for school, Medieinstitutet. We had to play around, try
 
 
 ## Screenshots
-![alt text](src/pictures/ScreenshotTravel.JPG)
+![alt text](public/pictures/ScreenshotTravel.JPG)
 
-![alt text](src/pictures/ScreeshotTravelGitgraph.JPG)
+![alt text](public/pictures/ScreeshotTravelGitgraph.JPG)
 
 
 ## Authors

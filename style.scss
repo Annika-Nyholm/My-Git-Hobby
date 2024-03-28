@@ -36,18 +36,17 @@ body {
             li {
                 text-decoration: underline;
                 cursor: pointer;
-                color: #f4acb7;
+                color: #ffcad4;
             }
 
             li:hover {
-                color: #ffcad4;
+                color: #f4acb7;
             }
 
         }
     }
     main {
         width: 100%;
-        
 
         section {
             @include box-shadow;
@@ -63,6 +62,7 @@ body {
                 text-transform: capitalize;
                 color: #ffe5d9;
             }
+
             figure {
                 display: flex;
                 flex-direction: column;
@@ -73,10 +73,10 @@ body {
                     height: auto;
                 }
                 figcaption {
+                    padding-top: 12px;
                     max-width: 50%;
                 }
             }
-
         }
     }
 }

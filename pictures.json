@@ -2,7 +2,7 @@
     {
         "filename": "HighWayOne.jpg",
         "path": "src/pictures/california/HighWayOne.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Breathtaking view off of Highway 1, California.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -11,7 +11,7 @@
     {
         "filename": "LACentralPerk.jpg",
         "path": "src/pictures/california/LACentralPerk.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Enjoying a cup of coffee at Central Perk, Warner Bros, Los Angeles.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -20,7 +20,7 @@
     {
         "filename": "LAHollywoodHill.jpg",
         "path": "src/pictures/california/LAHollywoodHill.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Hollywodd hill seen fråm down town LA.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -29,7 +29,7 @@
     {
         "filename": "LAHollywoodSign.jpg",
         "path": "src/pictures/california/LAHollywoodSign.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "The Famous Hollywood sign, Los Angeles",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -38,7 +38,7 @@
     {
         "filename": "LasVegasFountain.jpg",
         "path": "src/pictures/california/LasVegasFountain.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Splashing fountain outside hotel The Cosmopolitan, Las Vegas.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -47,7 +47,7 @@
     {
         "filename": "LasVegasSign.jpg",
         "path": "src/pictures/california/LasVegasSign.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Is there something more classic then the sign in Las Vegas?.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -56,7 +56,7 @@
     {
         "filename": "LosAngeles.jpg",
         "path": "src/pictures/california/LosAngeles.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "City skyline of down town Los Angeles.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -65,7 +65,7 @@
     {
         "filename": "PalmSprings.jpg",
         "path": "src/pictures/california/PalmSprings.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Fantastic Palm Springs!.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -74,7 +74,7 @@
     {
         "filename": "SanFran7Ladies.jpg",
         "path": "src/pictures/california/SanFran7Ladies.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Most popular ladies in San Fransisco, The Seven Ladies!.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -83,7 +83,7 @@
     {
         "filename": "SanFranGoldenGate.jpg",
         "path": "src/pictures/california/SanFranGoldenGate.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Can it be the worlds most famous bridge? The absolute gorgeous Golden Gate Bridge.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -92,7 +92,7 @@
     {
         "filename": "Sequoia.jpg",
         "path": "src/pictures/california/Sequoia.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "So awestruck just beeing near these giants! Sequoia National Park, California.",
         "category": "california",
         "width": 200,
         "height": 200,
@@ -101,7 +101,7 @@
     {
         "filename": "Alligator.jpg",
         "path": "src/pictures/florida/Alligator.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Prehistoric beast calmly swimming in the glades. Alligator in the Everglades, Florida.",
         "category": "florida",
         "width": 200,
         "height": 200,
@@ -110,7 +110,7 @@
     {
         "filename": "DisneyWorld.jpg",
         "path": "src/pictures/florida/DisneyWorld.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Family enjoying the sights at Disney World. In the background the Disney castle, Orlando, Florida.",
         "category": "florida",
         "width": 200,
         "height": 200,
@@ -119,7 +119,7 @@
     {
         "filename": "EvergladesGator.jpg",
         "path": "src/pictures/florida/EvergladesGator.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Out on the water in Everglades, Florida.",
         "category": "florida",
         "width": 200,
         "height": 200,
@@ -128,7 +128,7 @@
     {
         "filename": "FloridaBeach.jpg",
         "path": "src/pictures/florida/FloridaBeach.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Chrystal waters and white sands at Siesta Key, Florida.",
         "category": "florida",
         "width": 200,
         "height": 200,
@@ -137,7 +137,7 @@
     {
         "filename": "TjornBath.jpg",
         "path": "src/pictures/sweden/TjornBath.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Taking a little dip off the rocks at Skärhamn, Tjörn.",
         "category": "sweden",
         "width": 200,
         "height": 200,
@@ -146,7 +146,7 @@
     {
         "filename": "TjornForrest.jpg",
         "path": "src/pictures/sweden/TjornForrest.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "Enjoying the views from the forrests around Skärhamn, Tjörn.",
         "category": "sweden",
         "width": 200,
         "height": 200,
@@ -155,7 +155,7 @@
     {
         "filename": "TjornShrimps.jpg",
         "path": "src/pictures/sweden/TjornShrimps.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "When at the west coast you have to try shrimps and wine for dinner, Skärhamn, Tjörn.",
         "category": "sweden",
         "width": 200,
         "height": 200,
@@ -164,7 +164,7 @@
     {
         "filename": "TjornSunset.jpg",
         "path": "src/pictures/sweden/TjornSunset.jpg",
-        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla felis a urna consectetur, et facilisis felis placerat.",
+        "alt": "There are truly something special about those summer sunsets, Skärhamn, Tjörn.",
         "category": "sweden",
         "width": 200,
         "height": 200,
